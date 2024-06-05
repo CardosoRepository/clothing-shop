@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="project_management_img" src="src/about.png" width="90%">
+  <img alt="clothing_shop_img" src="src/about.png" width="90%">
 </p>
 
 ## ✨ Tecnologias
@@ -21,7 +21,7 @@ O Clothing Shop é um app de loja de roupas. Nele é listado alguns modelos e po
 
 ## 🔖 Acesso
 
-
+[Clothing Shop](https://main--clothing-shop-0.netlify.app)
 
 ## 🚀 Como executar
 
